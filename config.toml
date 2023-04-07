@@ -1,6 +1,6 @@
 baseURL = "https://cooking.tiago.life/"
 languageCode = "en-uk"
-title = "My Cooking Book - Tiago Queiroz"
+title = "My cookbook - Tiago Queiroz"
 theme = "gochowdown"
 # paginate= 20
 canonifyurls= true
@@ -22,8 +22,8 @@ canonifyurls= true
   dateformNumTime = "2006-01-02 15:04"
 
   # metadata for HTML
-  description = "Coocking site of Tiago Queiroz"
-  footercontent = "Recipes for the home cook."
+  description = "My cookbook - Tiago Queiroz" # HTML meta tag
+  footercontent = "My cookbook, online."
   # keywords = ""
 
   # Top menu
