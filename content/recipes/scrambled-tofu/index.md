@@ -7,7 +7,7 @@ authorName: "Cheap Lazy Vegan"
 authorURL: https://www.thecheaplazyvegan.com/scrambled-tofu-seasoning/
 sourceName: "Scrambled Tofu Seasoning"
 sourceURL: https://www.thecheaplazyvegan.com/
-category: breakfast # For example: "dinner", "entree", or "dessert".
+category: Breakfast # For example: "Dinner", "Breakfast", or "Dessert".
 # cuisine: Misc
 tags:
   - Plant Based

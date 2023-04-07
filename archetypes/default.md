@@ -13,7 +13,7 @@ sourceName: "original recipe name"
 sourceURL: https://original.recipe.link/original-recipe-name
 
 # Recipe information
-category: dessert # For example: "dinner", "entree", or "dessert".
+category: Breakfast # For example: "Dinner", "Breakfast", or "Dessert".
 # cuisine: Misc
 
 tags: # add as many as I want

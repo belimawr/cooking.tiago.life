@@ -13,7 +13,7 @@ sourceName: "Chocolate Mug Cake"
 sourceURL: https://www.livewellbakeoften.com/chocolate-mug-cake/
 
 # Recipe information
-category: dessert # For example: "dinner", "entree", or "dessert".
+category: Dessert # For example: "dinner", "entree", or "dessert".
 # cuisine: Misc
 
 tags: # add as many as I want
